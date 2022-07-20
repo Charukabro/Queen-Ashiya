@@ -39,29 +39,29 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Didula Rashmika']
+global.owner = ['charuka sandeepa']
 
 global.premium = ['💗Queen Ashiya🧚']
 
-global.ownernomer = '94741671668'
+global.ownernomer = '94786178335'
 
-global.ownername = 'Didula Rashmika'
+global.ownername = 'Charuka sandeepa'
 
-global.botname = '💗Queen Ashiya🧚'
+global.botname = '💗Queen Ashiya'
 
 global.footer = '©💗Queen Ashiya🧚.'
 
 global.ig = 'https://github.com/BlackPant'
 
-global.region = 'Sri Lanka, North Central Peovince, Anuradhapura'
+global.region = 'Sri Lanka, Pallebadda'
 
 global.sc = 'https://github.com/BlackPanther-svg/Queen-Ashiya'
 
 global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
 
-global.packname = '💗Queen Ashiya🧚'
+global.packname = '💗♕۝⃟̥̩̩̩̥̩♥️𝒞𝐻𝒜𝓡𝓾۝⃟̥̩̩̩̥̩̥♥️♕'
 
-global.author = '💗Queen Ashiya🧚'
+global.author = '💗charuka'
 
 global.sessionName = 'session'
 
@@ -71,13 +71,13 @@ global.sp = '◈'
 
 global.mess = {
 
-    success: 'Done ✓🌹⃝⃘̉̉̉̉̉̉🧚',
+    success: 'හරි බන්✓',
 
-    admin: 'This Feature Is Only For Admin!✾ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٖٖٜ۬ـٰٖٜ۬ـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٖٖٜ۬ـٰٖٜ۬ـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬✾➣',
+    admin: 'උබට පුලුවන් පකක් නැහ් ඇඩ්මින් ගනිම් පොන්නයෙක් වෙන්නැතුව!✾ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٖٖٜ۬ـٰٖٜ۬ـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٖٖٜ۬ـٰٖٜ۬ـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬✾➣',
 
-    botAdmin: 'Bot Must Be Admin First!❤️⃟✦⃝̮̮̮̯̯̯😌',
+    botAdmin: 'ගෲප් එකෙ ඇඩ්මින් අරන් ඉෆ්හපන් ඒසො🙁😌',
 
-    owner: 'This Feature Is Only For Owner😯⃟💦᭄᭄̊̊̊̊࿔!',
+    owner: 'හුකපන් පකයා ඒක මගේ කමාන්ඩ්😯⃟💦᭄᭄̊̊̊̊࿔!',
 
     group: 'Feature Used Only For Groups!😒⃝⃟ꦾ👌ꦿ',
 
@@ -85,7 +85,7 @@ global.mess = {
 
     bot: 'This Feature Is Only For Bot❤️⃝➤⃟̱̱̱̱̄̄̄̄😢',
 
-    wait: 'Wait A minute...🦋⃝❉⃟࿔ꦿ',
+    wait: 'පොඩ්ඩක් ඉදපම් පකො හදිස්සි නොවූ😜🔫',
 
     error: 'Error! Maybe Api Key Is Expired🤔!',
 
